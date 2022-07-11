@@ -180,6 +180,9 @@ app.get('/logout', (req, res)=> {
         res.redirect('/posts');
     });
 })
+app.get('/', (req, res)=> {
+    res.redirect('/posts');
+})
 app.all('*', (req, res, next) => {
     next(new ExpressError('Page Not Found!', 404));
 })
