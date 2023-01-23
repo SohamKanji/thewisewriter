@@ -5,4 +5,4 @@
 3. joi has been used for server side validation for data. <br/>
 4. Front-end has been developed using HTML, Bootstrap and Vanilla JS. <br/>
 5. MongoDB has been used as the database to store the posts, reviews on posts and users information. <br/>
-6. The application is hosted on Heroku. Check it out at https://tranquil-cliffs-70885.herokuapp.com/posts. </br>
+6. The application is hosted on Render. Check it out at https://thewisewriter.onrender.com. </br>
